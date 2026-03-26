@@ -273,7 +273,7 @@ ul { list-style: none; }
 .hero-bg {
   position: absolute;
   inset: 0;
-  background: url('hero.png') center/cover no-repeat;
+  background: url('/hero.png') center/cover no-repeat;
   z-index: 0;
 }
 .hero-overlay {
